@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on doudouu</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/douoduublog/tags/</link>
     <description>Recent content in Tags on doudouu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>selinafs880504@gmail.com (doudouu)</managingEditor>
     <webMaster>selinafs880504@gmail.com (doudouu)</webMaster>
     <copyright>©doudouu</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 18:46:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 18:46:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/douoduublog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Django</title>
-      <link>http://localhost:1313/tags/django/</link>
+      <link>http://localhost:1313/douoduublog/tags/django/</link>
       <pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate>
       <author>selinafs880504@gmail.com (doudouu)</author>
-      <guid>http://localhost:1313/tags/django/</guid>
+      <guid>http://localhost:1313/douoduublog/tags/django/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>軟體教學</title>
-      <link>http://localhost:1313/tags/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</link>
+      <link>http://localhost:1313/douoduublog/tags/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</link>
       <pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate>
       <author>selinafs880504@gmail.com (doudouu)</author>
-      <guid>http://localhost:1313/tags/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</guid>
+      <guid>http://localhost:1313/douoduublog/tags/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>環境安裝</title>
-      <link>http://localhost:1313/tags/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D/</link>
+      <link>http://localhost:1313/douoduublog/tags/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D/</link>
       <pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate>
       <author>selinafs880504@gmail.com (doudouu)</author>
-      <guid>http://localhost:1313/tags/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D/</guid>
+      <guid>http://localhost:1313/douoduublog/tags/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D/</guid>
       <description></description>
       
     </item>
