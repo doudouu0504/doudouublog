@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>doudouu</title><link>http://localhost:1313/</link><description>Recent content on doudouu</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouu)</managingEditor><webMaster>selinafs880504@gmail.com (doudouu)</webMaster><copyright>©doudouu</copyright><lastBuildDate>Sun, 17 Nov 2024 18:46:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>環境安裝-踏入python第一步</title><link>http://localhost:1313/posts/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-%E8%B8%8F%E5%85%A5python%E7%AC%AC%E4%B8%80%E6%AD%A5/</link><pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>http://localhost:1313/posts/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-%E8%B8%8F%E5%85%A5python%E7%AC%AC%E4%B8%80%E6%AD%A5/</guid><description>&lt;img src="http://localhost:1313/images/article/python.jpg" alt="Forest" width="600px">
+&lt;p style="color:">&lt;strong>內容提及:&lt;/strong>REPL、pyenv、Vscode、venv、poetry&lt;/p>
+進入python領域之前，可以先把套件安裝下載後學習，就可邊學習邊實作練習。</description></item><item><title>about this blog</title><link>http://localhost:1313/about/</link><pubDate>Sun, 17 Nov 2024 17:46:17 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>http://localhost:1313/about/</guid><description>&lt;h1 class="relative group">hi！我是小瑜
+&lt;div id="hi%E6%88%91%E6%98%AF%E5%B0%8F%E7%91%9C" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#hi%E6%88%91%E6%98%AF%E5%B0%8F%E7%91%9C" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;img src="img/小魚.jpg" alt="me" width="500px">
+&lt;h3 style="color:#91B493">&lt;strong>歡迎來到我的部落格◍•ᴗ•◍ &lt;/strong>&lt;/h3>
+&lt;p>這邊主要分享一些攝影、旅遊、網頁學習等內容！&lt;/p>
+&lt;p style="color:#9B90C2 ; text-decoration:underline;" >&lt;a href="#me">&lt;em>以下是我的簡介&lt;/em>&lt;/a>&lt;/p></description></item></channel></rss>
