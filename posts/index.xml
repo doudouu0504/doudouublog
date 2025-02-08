@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文章 on doudouu</title><link>https://doudouu0504.github.io/douoduublog/posts/</link><description>Recent content in 文章 on doudouu</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouu)</managingEditor><webMaster>selinafs880504@gmail.com (doudouu)</webMaster><copyright>©doudouu</copyright><lastBuildDate>Sun, 17 Nov 2024 18:46:07 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/douoduublog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>環境安裝-踏入python第一步</title><link>https://doudouu0504.github.io/douoduublog/posts/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-%E8%B8%8F%E5%85%A5python%E7%AC%AC%E4%B8%80%E6%AD%A5/</link><pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-%E8%B8%8F%E5%85%A5python%E7%AC%AC%E4%B8%80%E6%AD%A5/</guid><description>&lt;img src="https://doudouu0504.github.io/douoduublog/images/article/python.jpg" alt="Forest" width="600px">
-&lt;p style="color:">&lt;strong>內容提及:&lt;/strong>REPL、pyenv、Vscode、venv、poetry&lt;/p>
-進入python領域之前，可以先把套件安裝下載後學習，就可邊學習邊實作練習。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文章 on doudouu</title><link>https://doudouu0504.github.io/douoduublog/posts/</link><description>Recent content in 文章 on doudouu</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouu)</managingEditor><webMaster>selinafs880504@gmail.com (doudouu)</webMaster><copyright>©doudouu</copyright><lastBuildDate>Fri, 22 Nov 2024 10:41:17 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/douoduublog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Django 建立一個頁面</title><link>https://doudouu0504.github.io/douoduublog/posts/%E4%BD%BF%E7%94%A8django%E5%81%9A%E4%B8%80%E5%80%8B%E9%A0%81%E9%9D%A2/</link><pubDate>Fri, 22 Nov 2024 10:41:17 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/%E4%BD%BF%E7%94%A8django%E5%81%9A%E4%B8%80%E5%80%8B%E9%A0%81%E9%9D%A2/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>安裝 Django、MTV 模式中的 Template (T) 與 View (V) 實作練習&lt;/p>
+&lt;p>本篇文章將介紹如何使用 Django 建立一個 &lt;code>about&lt;/code> 頁面。&lt;/p></description></item><item><title>環境安裝 - 踏入 Python 第一步</title><link>https://doudouu0504.github.io/douoduublog/posts/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-%E8%B8%8F%E5%85%A5python%E7%AC%AC%E4%B8%80%E6%AD%A5/</link><pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-%E8%B8%8F%E5%85%A5python%E7%AC%AC%E4%B8%80%E6%AD%A5/</guid><description>&lt;hr>
+&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>在進入 Python 領域之前，建議先安裝相關工具與套件，這樣可以邊學習邊實作，提高學習效率。本篇文章將介紹 Python 環境安裝的各種方式，適用於 &lt;strong>macOS 使用者&lt;/strong>。&lt;/p></description></item></channel></rss>
