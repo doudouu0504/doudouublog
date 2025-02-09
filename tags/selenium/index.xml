@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Selenium on 小瑜的部落格</title><link>https://doudouu0504.github.io/douoduublog/tags/selenium/</link><description>Recent content in Selenium on 小瑜的部落格</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouu)</managingEditor><webMaster>selinafs880504@gmail.com (doudouu)</webMaster><copyright>©doudouu</copyright><lastBuildDate>Sat, 01 Feb 2025 21:07:38 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/douoduublog/tags/selenium/index.xml" rel="self" type="application/rss+xml"/><item><title>Selenium 操作 YouTube：解析導航與元素選取</title><link>https://doudouu0504.github.io/douoduublog/posts/selenium-%E6%93%8D%E4%BD%9C-youtube%E8%A7%A3%E6%9E%90%E5%B0%8E%E8%88%AA%E8%88%87%E5%85%83%E7%B4%A0%E9%81%B8%E5%8F%96/</link><pubDate>Sat, 01 Feb 2025 21:07:38 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/selenium-%E6%93%8D%E4%BD%9C-youtube%E8%A7%A3%E6%9E%90%E5%B0%8E%E8%88%AA%E8%88%87%E5%85%83%E7%B4%A0%E9%81%B8%E5%8F%96/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Selenium 中的導航與元素選取，包括 driver.back()、driver.forward()、WebDriverWait 及 XPath 。&lt;br>
+在這篇文章中，我們將使用 &lt;code>Selenium&lt;/code> 來搜尋 YouTube 上的比特幣相關影片，並詳細解析 &lt;strong>網頁導航&lt;/strong> 與 &lt;strong>元素選取&lt;/strong> 的關鍵函式。&lt;/p></description></item><item><title>使用 Selenium 自動化 YouTube 搜尋與爬取影片標題</title><link>https://doudouu0504.github.io/douoduublog/posts/%E4%BD%BF%E7%94%A8-selenium-%E8%87%AA%E5%8B%95%E5%8C%96-youtube-%E6%90%9C%E5%B0%8B%E8%88%87%E7%88%AC%E5%8F%96%E5%BD%B1%E7%89%87%E6%A8%99%E9%A1%8C/</link><pubDate>Sat, 01 Feb 2025 00:16:10 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/%E4%BD%BF%E7%94%A8-selenium-%E8%87%AA%E5%8B%95%E5%8C%96-youtube-%E6%90%9C%E5%B0%8B%E8%88%87%E7%88%AC%E5%8F%96%E5%BD%B1%E7%89%87%E6%A8%99%E9%A1%8C/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>在這篇文章中，我將分享如何使用 &lt;code>Selenium&lt;/code> 自動搜尋 YouTube 影片，並抓取搜尋結果的影片標題。這對於數據分析、內容整理，甚至是自動化工具開發都相當有幫助。&lt;/p></description></item><item><title>使用 Poetry 安裝 Selenium 並下載 ChromeDriver</title><link>https://doudouu0504.github.io/douoduublog/posts/%E4%BD%BF%E7%94%A8-poetry-%E5%AE%89%E8%A3%9D-selenium-%E4%B8%A6%E4%B8%8B%E8%BC%89-chromedriver/</link><pubDate>Fri, 31 Jan 2025 21:22:41 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/%E4%BD%BF%E7%94%A8-poetry-%E5%AE%89%E8%A3%9D-selenium-%E4%B8%A6%E4%B8%8B%E8%BC%89-chromedriver/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>在這篇文章中，我將介紹如何使用 Poetry 來管理 Python 環境，並安裝 Selenium 以進行網頁自動化測試。此外，我們也會下載並設定 ChromeDriver，使其能夠與 Selenium 搭配運行。&lt;/p></description></item></channel></rss>
