@@ -2,17 +2,19 @@
 date: "2024-11-22T10:41:17+08:00"
 draft: false
 title: "使用 Django 建立一個頁面"
-categories: ["Python"]
-tags: ["軟體教學", "Django"]
+tags: ["Django", "CRUD"]
+categories: ["python", "軟體教學"]
 ---
 
 ## 前言
 
-安裝 Django、MTV 模式中的 Template (T) 與 View (V) 實作練習
+安裝 Django、MTV 模式中的 Template (T) 與 View (V) 實作練習。
 
 本篇文章將介紹如何使用 Django 建立一個 `about` 頁面。
 
 <!--more-->
+
+---
 
 > **首先，先分享完整ＣＲＵＤ流程!!!**
 

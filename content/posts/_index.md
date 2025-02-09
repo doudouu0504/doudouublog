@@ -6,4 +6,5 @@ cascade:
   showDate: true
   showAuthor: true
 cardview: true
+layoutBackgroundBlur: false
 ---

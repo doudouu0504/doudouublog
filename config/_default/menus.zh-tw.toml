@@ -27,6 +27,12 @@
   weight = 20
 
 [[main]]
+  name = "軟體教學"
+  parent = "分類"
+  pageRef = "categories/軟體教學"
+  weight = 30
+
+[[main]]
   name = "關於我"
   pageRef = "about"
   weight = 30
