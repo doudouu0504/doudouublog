@@ -12,6 +12,8 @@ categories: ["軟體教學", "python"]
 
 <!--more-->
 
+---
+
 ## 流程圖
 
 <img src="img/pic.jpg" alt="Forest" width="600px">

@@ -4,6 +4,8 @@ draft: false
 title: "Selenium 操作 YouTube：解析導航與元素選取"
 tags: ["Selenium", "爬蟲"]
 categories: ["python", "軟體教學"]
+series: ["Selemium爬取Youtube標題"]
+series_order: 3
 ---
 
 ## 前言
@@ -12,6 +14,8 @@ Selenium 中的導航與元素選取，包括 driver.back()、driver.forward()�
 在這篇文章中，我們將使用 `Selenium` 來搜尋 YouTube 上的比特幣相關影片，並詳細解析 **網頁導航** 與 **元素選取** 的關鍵函式。
 
 <!--more-->
+
+---
 
 包括：
 

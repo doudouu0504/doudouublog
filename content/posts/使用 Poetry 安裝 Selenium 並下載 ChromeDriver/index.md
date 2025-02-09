@@ -4,6 +4,8 @@ draft: false
 title: "使用 Poetry 安裝 Selenium 並下載 ChromeDriver"
 tags: ["Selenium", "Poetry", "爬蟲"]
 categories: ["軟體教學", "python"]
+series: ["Selemium爬取Youtube標題"]
+series_order: 1
 ---
 
 ## 前言
