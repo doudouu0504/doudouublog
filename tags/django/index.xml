@@ -7,15 +7,7 @@ style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-l
 &lt;/span>
 &lt;/h2>
 &lt;p>本文將逐步解析 &lt;strong>AWS S3 Bucket&lt;/strong> 的設定選項，並針對常見情境提供最佳化建議，幫助你更快上手並避免常見錯誤。&lt;br>
-並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>深入理解 HTML 表單的 multipart/form-data</title><link>https://doudouu0504.github.io/douoduublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/form-data/</link><pubDate>Mon, 20 Jan 2025 17:28:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/form-data/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>在開發 Web 應用程式時，處理表單提交是不可避免的一部分。當表單需要支持 &lt;strong>文件上傳&lt;/strong> 時，&lt;code>enctype=&amp;quot;multipart/form-data&amp;quot;&lt;/code> 是一個必不可少的屬性。本文將深入解析 &lt;code>multipart/form-data&lt;/code> 的作用，並探討其在 &lt;strong>Django 文件上傳&lt;/strong> 中的應用。&lt;/p></description></item><item><title>Django 忘記密碼教學：使用 Gmail SMTP 完整配置指南</title><link>https://doudouu0504.github.io/douoduublog/posts/django-%E5%BF%98%E8%A8%98%E5%AF%86%E7%A2%BC%E6%95%99%E5%AD%B8%E4%BD%BF%E7%94%A8-gmail-smtp-%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/</link><pubDate>Wed, 08 Jan 2025 00:12:15 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/django-%E5%BF%98%E8%A8%98%E5%AF%86%E7%A2%BC%E6%95%99%E5%AD%B8%E4%BD%BF%E7%94%A8-gmail-smtp-%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/</guid><description>&lt;h2 class="relative group">前言
+並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>深入理解 HTML 表單的 multipart/form-data</title><link>https://doudouu0504.github.io/douoduublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/form-data/</link><pubDate>Mon, 20 Jan 2025 17:28:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/form-data/</guid><description/></item><item><title>Django 忘記密碼教學：使用 Gmail SMTP 完整配置指南</title><link>https://doudouu0504.github.io/douoduublog/posts/django-%E5%BF%98%E8%A8%98%E5%AF%86%E7%A2%BC%E6%95%99%E5%AD%B8%E4%BD%BF%E7%94%A8-gmail-smtp-%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/</link><pubDate>Wed, 08 Jan 2025 00:12:15 +0800</pubDate><author>selinafs880504@gmail.com (doudouu)</author><guid>https://doudouu0504.github.io/douoduublog/posts/django-%E5%BF%98%E8%A8%98%E5%AF%86%E7%A2%BC%E6%95%99%E5%AD%B8%E4%BD%BF%E7%94%A8-gmail-smtp-%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/</guid><description>&lt;h2 class="relative group">前言
 &lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
