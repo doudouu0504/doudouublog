@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-tw"
 languageName = "繁體中文"
 weight = 1
-title = "小瑜的部落格"
+title = "小瑜築夢站"
 
 [params]
   displayName = "zh-tw"
@@ -11,15 +11,15 @@ title = "小瑜的部落格"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "doudouu的部落格"
-  copyright = "©doudouu"
+  description = "小瑜築夢站"
+  copyright = "©doudouublog"
 
 [params.author]
-  name = "doudouu"
+  name = "doudouublog"
   email = "selinafs880504@gmail.com"
   image = "img/me.png"
 #   imageQuality = 96
-  headline = "轉職為軟體工程師的前高鐵站務員，熱愛攝影。"
+  headline = "轉職為軟體工程師的前高鐵站務員/攝影愛好者"
   bio = "所有選擇都是最好的選擇"
   links = [
     { email = "mailto:selinafs880504@gmail.com" },
