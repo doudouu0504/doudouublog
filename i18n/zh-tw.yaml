@@ -15,8 +15,8 @@ article:
     one: "{{ .Count }} 字"
     other: "{{ .Count }} 字"
   part_of_series: "系列文章"
-  part: "☁︎"
-  this_article: "本文"
+  part: "☾"
+  this_article: "本位 ⇦ 你的位置"
   related_articles: "相關文章"
 
 author:
