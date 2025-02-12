@@ -4,6 +4,7 @@ draft: false
 title: "使用 Django 建立一個頁面"
 tags: ["Django", "CRUD"]
 categories: ["python", "軟體教學"]
+slug: "Django-make-easypage"
 ---
 
 ## 前言

@@ -4,6 +4,7 @@ draft: false
 title: "Vue.js 基礎入門指南"
 tags: ["Vue.js"]
 categories: ["軟體教學"]
+slug: "Vue-start"
 ---
 
 ## 前言

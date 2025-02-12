@@ -4,6 +4,7 @@ draft: false
 title: "新手必備：Ngrok 詳盡教學指南"
 tags: ["Ngrok", "Django"]
 categories: ["軟體教學"]
+slug: "Ngrok-easyuse"
 ---
 
 ## 前言

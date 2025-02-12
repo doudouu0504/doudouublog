@@ -4,6 +4,7 @@ draft: false
 title: "環境安裝 - 踏入 Python 第一步"
 tags: ["環境安裝", "Django"]
 categories: ["python","軟體教學"]
+slug: "enviroment-vscode-poetry&venv"
 ----------------------
 
 ## 前言

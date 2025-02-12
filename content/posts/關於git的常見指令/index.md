@@ -4,6 +4,7 @@ draft: false
 title: "Git 常見指令整理"
 tags: ["Git", "GitHub"]
 categories: ["軟體教學"]
+slug: "Git-instruction"
 ---
 
 ## 前言

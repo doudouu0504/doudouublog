@@ -4,6 +4,7 @@ draft: false
 title: "如何在 Django 中實現 LINE 登入功能"
 tags: ["Django", "Line", "第三方金流"]
 categories: ["軟體教學"]
+slug: "Django-Line-Login"
 ---
 
 ## 前言

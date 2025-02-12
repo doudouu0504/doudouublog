@@ -4,6 +4,7 @@ draft: false
 title: "RESTful API 與 CRUD"
 tags: ["CRUD", "RESTful API"]
 categories: ["軟體教學"]
+slug: "RESTfulAPI-CRUD"
 ---
 
 ## 前言

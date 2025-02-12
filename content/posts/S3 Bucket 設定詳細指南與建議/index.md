@@ -4,6 +4,7 @@ draft: false
 title: "S3 Bucket 設定詳細指南與建議"
 tags: ["Django", "AWS"]
 categories: ["軟體教學"]
+slug: "S3Bucket-set"
 ---
 
 ## 前言

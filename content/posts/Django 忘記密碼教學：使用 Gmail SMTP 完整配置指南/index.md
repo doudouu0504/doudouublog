@@ -4,6 +4,7 @@ draft: false
 title: "Django 忘記密碼教學：使用 Gmail SMTP 完整配置指南"
 tags: ["Django", "SMTP寄件教學", "忘記密碼功能"]
 categories: ["軟體教學", "python"]
+slug: "Django-GmailSMTP-connect"
 ---
 
 ## 前言

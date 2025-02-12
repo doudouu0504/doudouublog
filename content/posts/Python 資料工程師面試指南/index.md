@@ -4,6 +4,7 @@ draft: false
 date: 2025-02-11
 tags: ["面試", "爬蟲", "API 開發"]
 categories: ["python"]
+slug: "python-interview-good"
 ---
 
 ## 前言

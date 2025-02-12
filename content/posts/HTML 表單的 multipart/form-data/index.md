@@ -4,6 +4,7 @@ draft: false
 title: "深入理解 HTML 表單的 multipart/form-data"
 tags: ["Django", "AWS"]
 categories: ["軟體教學", "python"]
+slug: "HTML-multipart"
 ---
 
 ## 前言

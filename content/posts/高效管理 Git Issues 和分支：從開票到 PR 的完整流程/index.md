@@ -4,6 +4,7 @@ draft: false
 title: "高效管理 Git Issues 和分支：從開票到 PR 的完整流程"
 tags: ["git", "GitHub"]
 categories: ["軟體教學"]
+slug: "GitIssues-howtopush-GitHub"
 ---
 
 ## 前言

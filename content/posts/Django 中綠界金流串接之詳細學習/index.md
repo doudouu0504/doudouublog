@@ -4,6 +4,7 @@ draft: false
 title: "Django 中綠界金流串接之詳細學習"
 tags: ["Django", "綠界金流", "支付整合"]
 categories: ["軟體教學", "python"]
+slug: "Django-Ecpay-connect"
 ---
 
 ## 前言

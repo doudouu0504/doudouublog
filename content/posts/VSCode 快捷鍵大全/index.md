@@ -4,6 +4,7 @@ draft: false
 title: "VSCode 快捷鍵大全"
 tags: ["VSCode"]
 categories: ["軟體教學"]
+slug: "vscode-faster"
 ---
 
 ## 前言

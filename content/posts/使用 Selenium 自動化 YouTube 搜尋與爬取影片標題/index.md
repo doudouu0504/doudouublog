@@ -6,6 +6,7 @@ tags: ["Selenium", "爬蟲"]
 categories: ["軟體教學", "python"]
 series: ["Selemium爬取Youtube標題"]
 series_order: 2
+slug: "Selenium-YouTube-crawler"
 ---
 
 ## 前言
