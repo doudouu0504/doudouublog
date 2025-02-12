@@ -11,6 +11,8 @@ slug: "HTML-multipart"
 
 在開發 Web 應用程式時，處理表單提交是不可避免的一部分。當表單需要支持 **文件上傳** 時，`enctype="multipart/form-data"` 是一個必不可少的屬性。本文將深入解析 `multipart/form-data` 的作用，並探討其在 **Django 文件上傳** 中的應用。
 
+<!--more-->
+
 ---
 
 ## **一、什麼是 `multipart/form-data`？**
