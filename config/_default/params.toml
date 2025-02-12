@@ -54,8 +54,8 @@ smartTOCHideUnfocusedChildren = false
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true #firebase相關
+  showLikes = false #firebase相關
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
@@ -126,13 +126,13 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyAVYve2uCIR_dJtLf0mUUn5yxFswT1ceY8"
+  authDomain = "doudouublog.firebaseapp.com"
+  projectId = "doudouublog"
+  storageBucket = "doudouublog.firebasestorage.app"
+  messagingSenderId = "1073480293364"
+  appId = "1:1073480293364:web:b8e831ac06a12e746c37a1"
+  measurementId = "G-GJ41EK5R0G"
 
 [fathomAnalytics]
   # site = "ABC12345"
