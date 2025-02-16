@@ -3,7 +3,7 @@ date: "2025-02-01T00:16:10+08:00"
 draft: false
 title: "使用 Selenium 自動化 YouTube 搜尋與爬取影片標題"
 tags: ["Selenium", "爬蟲"]
-categories: ["軟體教學", "python"]
+categories: ["python"]
 series: ["Selemium爬取Youtube標題"]
 series_order: 2
 slug: "Selenium-YouTube-crawler"

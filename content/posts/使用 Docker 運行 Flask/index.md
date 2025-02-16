@@ -3,7 +3,7 @@ date: "2025-02-05T22:44:15+08:00"
 draft: false
 title: "在 macOS M1 上使用 Docker 運行 Flask 應用程式"
 tags: ["Docker", "Flask", "macOSM1"]
-categories: ["python", "軟體教學"]
+categories: ["python"]
 slug: "macOS-HowtouseDocker-Flask"
 ---
 

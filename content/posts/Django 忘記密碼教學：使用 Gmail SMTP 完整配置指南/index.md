@@ -3,7 +3,7 @@ date: "2025-01-08T00:12:15+08:00"
 draft: false
 title: "Django 忘記密碼教學：使用 Gmail SMTP 完整配置指南"
 tags: ["Django", "SMTP寄件教學", "忘記密碼功能"]
-categories: ["軟體教學", "python"]
+categories: ["python"]
 slug: "Django-GmailSMTP-connect"
 ---
 
@@ -301,7 +301,7 @@ class CustomPasswordResetCompleteView(auth_views.PasswordResetCompleteView):
             type="password"
             name="new_password1"
             id="id_new_password1"
-            class="block w-full px-3 py-2 mt-1 text-gray-700 placeholder-gray-400 bg-white border border-        gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+            class="block w-full px-3 py-2 mt-1 text-gray-700 placeholder-gray-400 bg-white border rounded-md shadow-sm border- gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
             placeholder="請輸入新密碼"
           />
         </div>

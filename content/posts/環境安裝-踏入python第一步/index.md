@@ -3,7 +3,7 @@ date: "2024-11-17T18:46:07+08:00"
 draft: false
 title: "環境安裝 - 踏入 Python 第一步"
 tags: ["環境安裝", "Django"]
-categories: ["python","軟體教學"]
+categories: ["python"]
 slug: "enviroment-vscode-poetry&venv"
 ----------------------
 

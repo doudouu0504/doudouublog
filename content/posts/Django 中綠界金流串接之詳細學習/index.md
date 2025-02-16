@@ -3,7 +3,7 @@ date: "2025-01-04T18:42:41+08:00"
 draft: false
 title: "Django 中綠界金流串接之詳細學習"
 tags: ["Django", "綠界金流", "支付整合"]
-categories: ["軟體教學", "python"]
+categories: ["python"]
 slug: "Django-Ecpay-connect"
 ---
 

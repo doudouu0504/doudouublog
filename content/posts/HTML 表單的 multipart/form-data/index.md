@@ -3,7 +3,7 @@ date: "2025-01-20T17:28:08+08:00"
 draft: false
 title: "深入理解 HTML 表單的 multipart/form-data"
 tags: ["Django", "AWS"]
-categories: ["軟體教學", "python"]
+categories: ["python"]
 slug: "HTML-multipart"
 ---
 

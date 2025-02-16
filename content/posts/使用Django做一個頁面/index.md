@@ -3,7 +3,7 @@ date: "2024-11-22T10:41:17+08:00"
 draft: false
 title: "使用 Django 建立一個頁面"
 tags: ["Django", "CRUD"]
-categories: ["python", "軟體教學"]
+categories: ["python"]
 slug: "Django-make-easypage"
 ---
 

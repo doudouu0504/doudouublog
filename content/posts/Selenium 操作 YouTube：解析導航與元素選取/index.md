@@ -3,7 +3,7 @@ date: "2025-02-01T21:07:38+08:00"
 draft: false
 title: "Selenium 操作 YouTube：解析導航與元素選取"
 tags: ["Selenium", "爬蟲"]
-categories: ["python", "軟體教學"]
+categories: ["python"]
 series: ["Selemium爬取Youtube標題"]
 series_order: 3
 slug: "Selenium-comment-element"

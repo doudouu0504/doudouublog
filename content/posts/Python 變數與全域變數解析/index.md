@@ -4,7 +4,7 @@ draft: false
 date: "2025-02-15T21:54:08+08:00"
 categories: ["python"]
 tags: ["變數", "全域變數", "程式設計"]
-slug: "Python-basic-Variables"
+slug: "python-basic-variables"
 ---
 
 ## 前言
