@@ -65,7 +65,7 @@
     
     {{ if or (and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in
     .TableOfContents "<ul")) (.Site.Params.article.showRelatedPosts | default false) }} <div
-      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      class="order-first px-0 lg:ml-auto lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
       <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky {{ if hasPrefix .Site.Params.header.layout "fixed" -}}
         lg:top-[140px]{{ else }}lg:top-10{{ end }}">
 
@@ -79,7 +79,7 @@
         
         {{ partial "series/series.html" . }}
 
-        <div class="article-content max-w-prose mb-20">
+        <div class="mb-20 article-content max-w-prose">
           {{ .Content }}
           {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
           {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
@@ -119,7 +119,7 @@
 
         {{ end }}
 
-        {{ partial "series/series-closed.html" . }}
+        
         {{ partial "sharing-links.html" . }}
         {{ partial "related.html" . }}  
       </div>
