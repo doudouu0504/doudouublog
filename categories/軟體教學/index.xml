@@ -1,37 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>軟體教學 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/categories/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</link><description>Recent content in 軟體教學 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Wed, 05 Feb 2025 22:44:15 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/categories/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>在 macOS M1 上使用 Docker 運行 Flask 應用程式</title><link>https://doudouu0504.github.io/doudouublog/posts/macos-howtousedocker-flask/</link><pubDate>Wed, 05 Feb 2025 22:44:15 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/macos-howtousedocker-flask/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>在 &lt;strong>macOS M1（Apple Silicon）&lt;/strong> 上運行 Docker 可能會遇到與傳統 x86 架構不同的挑戰，例如需要特定的架構支援。本篇文章將介紹如何使用 &lt;strong>Docker&lt;/strong> 部署 Flask 應用程式，並逐步解析 &lt;code>Dockerfile&lt;/code> 的內容，確保其可在 &lt;strong>macOS M1&lt;/strong> 上順利運行。&lt;/p></description></item><item><title>Selenium 操作 YouTube：解析導航與元素選取</title><link>https://doudouu0504.github.io/doudouublog/posts/selenium-comment-element/</link><pubDate>Sat, 01 Feb 2025 21:07:38 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/selenium-comment-element/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Selenium 中的導航與元素選取，包括 driver.back()、driver.forward()、WebDriverWait 及 XPath 。&lt;br>
-在這篇文章中，我們將使用 &lt;code>Selenium&lt;/code> 來搜尋 YouTube 上的比特幣相關影片，並詳細解析 &lt;strong>網頁導航&lt;/strong> 與 &lt;strong>元素選取&lt;/strong> 的關鍵函式。&lt;/p></description></item><item><title>使用 Selenium 自動化 YouTube 搜尋與爬取影片標題</title><link>https://doudouu0504.github.io/doudouublog/posts/selenium-youtube-crawler/</link><pubDate>Sat, 01 Feb 2025 00:16:10 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/selenium-youtube-crawler/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>在這篇文章中，我將分享如何使用 &lt;code>Selenium&lt;/code> 自動搜尋 YouTube 影片，並抓取搜尋結果的影片標題。這對於數據分析、內容整理，甚至是自動化工具開發都相當有幫助。&lt;/p></description></item><item><title>使用 Poetry 安裝 Selenium 並下載 ChromeDriver</title><link>https://doudouu0504.github.io/doudouublog/posts/selenium-download-chromedriver/</link><pubDate>Fri, 31 Jan 2025 21:22:41 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/selenium-download-chromedriver/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>在這篇文章中，我將介紹如何使用 Poetry 來管理 Python 環境，並安裝 Selenium 以進行網頁自動化測試。此外，我們也會下載並設定 ChromeDriver，使其能夠與 Selenium 搭配運行。&lt;/p></description></item><item><title>S3 Bucket 設定詳細指南與建議</title><link>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</link><pubDate>Sat, 25 Jan 2025 13:32:50 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</guid><description>&lt;h2 class="relative group">前言
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>軟體教學 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/categories/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</link><description>Recent content in 軟體教學 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Sat, 25 Jan 2025 13:32:50 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/categories/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>S3 Bucket 設定詳細指南與建議</title><link>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</link><pubDate>Sat, 25 Jan 2025 13:32:50 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</guid><description>&lt;h2 class="relative group">前言
 &lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -40,31 +7,7 @@ style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-l
 &lt;/span>
 &lt;/h2>
 &lt;p>本文將逐步解析 &lt;strong>AWS S3 Bucket&lt;/strong> 的設定選項，並針對常見情境提供最佳化建議，幫助你更快上手並避免常見錯誤。&lt;br>
-並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>深入理解 HTML 表單的 multipart/form-data</title><link>https://doudouu0504.github.io/doudouublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/html-multipart/</link><pubDate>Mon, 20 Jan 2025 17:28:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/html-multipart/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>在開發 Web 應用程式時，處理表單提交是不可避免的一部分。當表單需要支持 &lt;strong>文件上傳&lt;/strong> 時，&lt;code>enctype=&amp;quot;multipart/form-data&amp;quot;&lt;/code> 是一個必不可少的屬性。本文將深入解析 &lt;code>multipart/form-data&lt;/code> 的作用，並探討其在 &lt;strong>Django 文件上傳&lt;/strong> 中的應用。&lt;/p></description></item><item><title>Django 忘記密碼教學：使用 Gmail SMTP 完整配置指南</title><link>https://doudouu0504.github.io/doudouublog/posts/django-gmailsmtp-connect/</link><pubDate>Wed, 08 Jan 2025 00:12:15 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-gmailsmtp-connect/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>本文將詳細講解如何在 Django 中實現忘記密碼功能，並完整演示 Gmail SMTP 配置的每一步驟，幫助您快速部署信件服務。這個功能會利用 Gmail 作為信件伺服，並使用 Google 應用專用密碼進行伺服器帳號的登入串接。&lt;/p></description></item><item><title>Django 中綠界金流串接之詳細學習</title><link>https://doudouu0504.github.io/doudouublog/posts/django-ecpay-connect/</link><pubDate>Sat, 04 Jan 2025 18:42:41 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-ecpay-connect/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>金流功能是現代網站必不可少的商業化功能之一。本文中，將指導如何在 Django 框架中經由綠界金流完成支付功能的串接。最終將實現一個包括服務選擇、訂單管理和支付清算的完整流程。&lt;/p></description></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
+並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
 &lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -120,22 +63,4 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>Visual Studio Code（VSCode）是一款功能強大且廣受開發者喜愛的程式碼編輯器。透過快捷鍵，開發者可以更高效地編輯程式碼、管理視窗與控制終端機，提高工作效率。&lt;/p></description></item><item><title>使用 Django 建立一個頁面</title><link>https://doudouu0504.github.io/doudouublog/posts/django-make-easypage/</link><pubDate>Fri, 22 Nov 2024 10:41:17 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-make-easypage/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>安裝 Django、MTV 模式中的 Template (T) 與 View (V) 實作練習。&lt;/p>
-&lt;p>本篇文章將介紹如何使用 Django 建立一個 &lt;code>about&lt;/code> 頁面。&lt;/p></description></item><item><title>環境安裝 - 踏入 Python 第一步</title><link>https://doudouu0504.github.io/doudouublog/posts/enviroment-vscode-poetryvenv/</link><pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/enviroment-vscode-poetryvenv/</guid><description>&lt;hr>
-&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>在進入 Python 領域之前，建議先安裝相關工具與套件，這樣可以邊學習邊實作，提高學習效率。本篇文章將介紹 Python 環境安裝的各種方式，適用於 &lt;strong>macOS 使用者&lt;/strong>。&lt;/p></description></item></channel></rss>
+&lt;p>Visual Studio Code（VSCode）是一款功能強大且廣受開發者喜愛的程式碼編輯器。透過快捷鍵，開發者可以更高效地編輯程式碼、管理視窗與控制終端機，提高工作效率。&lt;/p></description></item></channel></rss>

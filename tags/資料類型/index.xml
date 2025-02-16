@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>資料類型 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B/</link><description>Recent content in 資料類型 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Sun, 16 Feb 2025 14:05:08 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Python 資料類型完整解析</title><link>https://doudouu0504.github.io/doudouublog/posts/python-basic-datatypes/</link><pubDate>Sun, 16 Feb 2025 14:05:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-basic-datatypes/</guid><description>&lt;hr>
+&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>在程式設計中，&lt;strong>資料型態&lt;/strong> 是一個重要的概念。變數可以儲存不同類型的數據，而不同的數據類型提供不同的功能。&lt;br>
+此篇文章了解 Python 內建資料類型，包括文字、數字、序列、映射、設定、布林和二進位類型，並學習如何設定與獲取資料型態。&lt;/p></description></item></channel></rss>
