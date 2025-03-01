@@ -35,18 +35,18 @@ slug: "Gitsnake"
    - **建立 `.github/workflows/snake.yml`**，內容如下：
 
 ```yaml
-title: "Generate Snake Animation"
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 0 * * *" # 每天執行
-  workflow_dispatch: # 允許手動執行
+  workflow_dispatch: # 允許手動觸發
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 讓 Actions 可以推送到 output 分支
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
