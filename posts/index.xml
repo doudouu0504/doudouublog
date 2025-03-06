@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文章 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/posts/</link><description>Recent content in 文章 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Thu, 27 Feb 2025 00:17:00 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>如何在 GitHub 個人頁面添加貢獻蛇動畫 (GitHub Snake Animation)</title><link>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</link><pubDate>Thu, 27 Feb 2025 00:17:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</guid><description>&lt;h2 class="relative group">🐍 如何在 GitHub 個人頁面添加貢獻蛇動畫？
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文章 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/posts/</link><description>Recent content in 文章 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Thu, 06 Mar 2025 17:01:00 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>FastAPI 後端測試題教學與實作</title><link>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy/</link><pubDate>Thu, 06 Mar 2025 17:01:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy/</guid><description>&lt;h1 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>使用 FastAPI、MySQL、Redis 實作 API 並結合 Crontab 啟動，完整操作教學。&lt;br>
+在這篇文章中，我將分享如何利用 FastAPI 搭配 MySQL 與 Redis 完成一個後端測試題的實作，並說明每個步驟，包含環境設置、程式撰寫以及啟動方式，適合初學者理解與實作。&lt;/p></description></item><item><title>MySQL 與 Redis 建立資料操作指南</title><link>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy-mysql-redis/</link><pubDate>Thu, 06 Mar 2025 17:00:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy-mysql-redis/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>在後端開發過程中，經常需要使用 MySQL 和 Redis 來儲存與操作資料。&lt;br>
+這篇文章將一步步示範如何在本機建立 MySQL 資料庫與 Redis 資料，並進行基本操作。&lt;/p></description></item><item><title>如何在 GitHub 個人頁面添加貢獻蛇動畫 (GitHub Snake Animation)</title><link>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</link><pubDate>Thu, 27 Feb 2025 00:17:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</guid><description>&lt;h2 class="relative group">🐍 如何在 GitHub 個人頁面添加貢獻蛇動畫？
 &lt;div id="-%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E6%B7%BB%E5%8A%A0%E8%B2%A2%E7%8D%BB%E8%9B%87%E5%8B%95%E7%95%AB" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
