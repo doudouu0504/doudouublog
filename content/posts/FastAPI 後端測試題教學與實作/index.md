@@ -116,7 +116,7 @@ REDIS_PORT=6379
 
 ### 3.1 放入測試資料
 
-可以先參考[MySQL 與 Redis 建立資料]()
+詳細內容，可以先參考[這一篇文章](https://doudouu0504.github.io/doudouublog/posts/bkend-anspy-mysql-redis/)
 
 #### MySQL (test_db > users)
 
