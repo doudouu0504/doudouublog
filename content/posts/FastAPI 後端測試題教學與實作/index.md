@@ -2,7 +2,7 @@
 date: "2025-03-06T17:01:00+08:00"
 draft: false
 title: "FastAPI 後端測試題教學與實作"
-tags: ["Python", "MySQL", "Redis", "API"]
+tags: ["MySQL", "Redis", "API"]
 categories: ["python"]
 slug: "bkend-anspy"
 series: ["FastAPI 後端測試實作"]
