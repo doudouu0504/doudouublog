@@ -33,6 +33,12 @@
   weight = 30
 
 [[main]]
+  name = "我的日誌"
+  parent = "分類"
+  pageRef = "categories/我的日誌"
+  weight = 40
+
+[[main]]
   name = "關於我"
   pageRef = "about"
   weight = 30
