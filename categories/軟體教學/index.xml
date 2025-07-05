@@ -1,75 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>軟體教學 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/categories/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/</link><description>Recent content in 軟體教學 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Thu, 27 Feb 2025 00:17:00 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/categories/%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>如何在 GitHub 個人頁面添加貢獻蛇動畫 (GitHub Snake Animation)</title><link>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</link><pubDate>Thu, 27 Feb 2025 00:17:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</guid><description>&lt;h2 class="relative group">🐍 如何在 GitHub 個人頁面添加貢獻蛇動畫？
-&lt;div id="-%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E6%B7%BB%E5%8A%A0%E8%B2%A2%E7%8D%BB%E8%9B%87%E5%8B%95%E7%95%AB" class="anchor">&lt;/div>
+&lt;div id="-如何在-github-個人頁面添加貢獻蛇動畫" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#-%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E6%B7%BB%E5%8A%A0%E8%B2%A2%E7%8D%BB%E8%9B%87%E5%8B%95%E7%95%AB" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-%e5%a6%82%e4%bd%95%e5%9c%a8-github-%e5%80%8b%e4%ba%ba%e9%a0%81%e9%9d%a2%e6%b7%bb%e5%8a%a0%e8%b2%a2%e7%8d%bb%e8%9b%87%e5%8b%95%e7%95%ab" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>教你如何在 GitHub Profile 加入 GitHub Snake Animation，讓你的貢獻紀錄動起來！&lt;br>
 想要讓你的 GitHub 貢獻紀錄變得更酷炫嗎？這篇教學將帶你一步步設定 &lt;strong>GitHub Snake Animation&lt;/strong>，讓你的 GitHub Profile 更加吸睛！🚀&lt;/p></description></item><item><title>S3 Bucket 設定詳細指南與建議</title><link>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</link><pubDate>Sat, 25 Jan 2025 13:32:50 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本文將逐步解析 &lt;strong>AWS S3 Bucket&lt;/strong> 的設定選項，並針對常見情境提供最佳化建議，幫助你更快上手並避免常見錯誤。&lt;br>
-並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>看看有沒有</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</guid><description/></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在團隊協作開發中，管理 Git 的 issues 和分支是一項至關重要的工作。為了讓流程更清晰，以下分為五大步驟，從開 issue 到完成合併，幫助團隊提升效率。&lt;/p></description></item><item><title>新手必備：Ngrok 詳盡教學指南</title><link>https://doudouu0504.github.io/doudouublog/posts/ngrok-easyuse/</link><pubDate>Wed, 01 Jan 2025 19:04:47 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/ngrok-easyuse/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>這篇教學針對新手，將以簡單易懂的方式，教您如何在 &lt;strong>Mac 的 VSCode 終端機&lt;/strong> 中，使用 Ngrok 來分享 Django 專案。&lt;/p></description></item><item><title>如何在 Django 中實現 LINE 登入功能</title><link>https://doudouu0504.github.io/doudouublog/posts/django-line-login/</link><pubDate>Sat, 21 Dec 2024 21:17:34 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-line-login/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在這篇文章中，將詳細介紹如何在 Django 項目中實現 LINE 登入功能。我們會使用 django-allauth 這個強大的第三方庫，讓開發者可以輕鬆集成各種社交平台的登入功能。&lt;/p></description></item><item><title>Vue.js 基礎入門指南</title><link>https://doudouu0504.github.io/doudouublog/posts/vue-start/</link><pubDate>Mon, 02 Dec 2024 10:44:40 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/vue-start/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本篇文章適合 Vue.js 初學者，將帶你快速了解 &lt;strong>Vue.js 的基礎指令、事件處理、迴圈應用&lt;/strong>，並示範如何搭建專案環境。透過本篇教學，你將能夠寫出 Vue.js 的基礎應用，並進一步理解 Vue 的核心概念。&lt;/p></description></item><item><title>Git 常見指令整理</title><link>https://doudouu0504.github.io/doudouublog/posts/git-instruction/</link><pubDate>Fri, 29 Nov 2024 18:21:44 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/git-instruction/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>Git 是目前最流行的版本控制系統之一，幫助開發者管理專案變更、追蹤歷史紀錄，並與團隊協作。本篇文章將整理 &lt;strong>Git 的常用指令&lt;/strong>，並提供 &lt;strong>如何上傳到 GitHub&lt;/strong> 以及 &lt;strong>練習 Git 指令的小遊戲&lt;/strong>，適合 Git 初學者學習與進階使用。&lt;/p></description></item><item><title>RESTful API 與 CRUD</title><link>https://doudouu0504.github.io/doudouublog/posts/restfulapi-crud/</link><pubDate>Sat, 23 Nov 2024 13:08:55 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/restfulapi-crud/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>RESTful API 是一種設計方式，讓不同的應用程式能夠透過網路互相溝通。它使用標準的 &lt;strong>HTTP 方法&lt;/strong>（如 GET、POST、PUT、DELETE）來存取和管理資源，使得前端和後端可以更容易地分工合作。&lt;/p></description></item><item><title>VSCode 快捷鍵大全</title><link>https://doudouu0504.github.io/doudouublog/posts/vscode-faster/</link><pubDate>Sat, 23 Nov 2024 11:40:26 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/vscode-faster/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>Visual Studio Code（VSCode）是一款功能強大且廣受開發者喜愛的程式碼編輯器。透過快捷鍵，開發者可以更高效地編輯程式碼、管理視窗與控制終端機，提高工作效率。&lt;/p></description></item></channel></rss>

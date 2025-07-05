@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vue.js on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/vue.js/</link><description>Recent content in Vue.js on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Mon, 02 Dec 2024 10:44:40 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/vue.js/index.xml" rel="self" type="application/rss+xml"/><item><title>Vue.js 基礎入門指南</title><link>https://doudouu0504.github.io/doudouublog/posts/vue-start/</link><pubDate>Mon, 02 Dec 2024 10:44:40 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/vue-start/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本篇文章適合 Vue.js 初學者，將帶你快速了解 &lt;strong>Vue.js 的基礎指令、事件處理、迴圈應用&lt;/strong>，並示範如何搭建專案環境。透過本篇教學，你將能夠寫出 Vue.js 的基礎應用，並進一步理解 Vue 的核心概念。&lt;/p></description></item></channel></rss>

@@ -1,238 +1,210 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/</link><description>Recent content on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Mon, 17 Mar 2025 18:46:07 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/index.xml" rel="self" type="application/rss+xml"/><item><title>關於轉職的那些事</title><link>https://doudouu0504.github.io/doudouublog/posts/about-thosethings/</link><pubDate>Mon, 17 Mar 2025 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/about-thosethings/</guid><description>&lt;p>分享我的轉職過程，以及從中學到的內容。&lt;/p></description></item><item><title>FastAPI 後端測試題教學與實作</title><link>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy/</link><pubDate>Thu, 06 Mar 2025 17:01:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy/</guid><description>&lt;h1 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;p>使用 FastAPI、MySQL、Redis 實作 API 並結合 Crontab 啟動，完整操作教學。&lt;br>
 在這篇文章中，我將分享如何利用 FastAPI 搭配 MySQL 與 Redis 完成一個後端測試題的實作，並說明每個步驟，包含環境設置、程式撰寫以及啟動方式，適合初學者理解與實作。&lt;/p></description></item><item><title>MySQL 與 Redis 建立資料操作指南</title><link>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy-mysql-redis/</link><pubDate>Thu, 06 Mar 2025 17:00:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/bkend-anspy-mysql-redis/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在後端開發過程中，經常需要使用 MySQL 和 Redis 來儲存與操作資料。&lt;br>
 這篇文章將一步步示範如何在本機建立 MySQL 資料庫與 Redis 資料，並進行基本操作。&lt;/p></description></item><item><title>如何在 GitHub 個人頁面添加貢獻蛇動畫 (GitHub Snake Animation)</title><link>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</link><pubDate>Thu, 27 Feb 2025 00:17:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitsnake/</guid><description>&lt;h2 class="relative group">🐍 如何在 GitHub 個人頁面添加貢獻蛇動畫？
-&lt;div id="-%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E6%B7%BB%E5%8A%A0%E8%B2%A2%E7%8D%BB%E8%9B%87%E5%8B%95%E7%95%AB" class="anchor">&lt;/div>
+&lt;div id="-如何在-github-個人頁面添加貢獻蛇動畫" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#-%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E6%B7%BB%E5%8A%A0%E8%B2%A2%E7%8D%BB%E8%9B%87%E5%8B%95%E7%95%AB" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-%e5%a6%82%e4%bd%95%e5%9c%a8-github-%e5%80%8b%e4%ba%ba%e9%a0%81%e9%9d%a2%e6%b7%bb%e5%8a%a0%e8%b2%a2%e7%8d%bb%e8%9b%87%e5%8b%95%e7%95%ab" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>教你如何在 GitHub Profile 加入 GitHub Snake Animation，讓你的貢獻紀錄動起來！&lt;br>
 想要讓你的 GitHub 貢獻紀錄變得更酷炫嗎？這篇教學將帶你一步步設定 &lt;strong>GitHub Snake Animation&lt;/strong>，讓你的 GitHub Profile 更加吸睛！🚀&lt;/p></description></item><item><title>Python 字串方法 (String Methods)</title><link>https://doudouu0504.github.io/doudouublog/posts/python-import-method/</link><pubDate>Sun, 16 Feb 2025 22:23:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-import-method/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 Python 中，字串 (String) 是最常使用的資料型態之一。為了方便處理字串，Python 提供了一組內建方法，讓開發者可以 &lt;strong>轉換大小寫、查找、修改、格式化、分割與拼接字串&lt;/strong>。&lt;/p>
 &lt;p>本篇文章將介紹 &lt;strong>Python 常見的字串方法&lt;/strong>，並搭配範例來幫助理解與應用。&lt;/p></description></item><item><title>Python 格式化字串 (String Formatting)</title><link>https://doudouu0504.github.io/doudouublog/posts/python-fstring/</link><pubDate>Sun, 16 Feb 2025 21:46:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-fstring/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 Python 中，格式化字串是一種常見的操作，尤其當我們需要將 &lt;strong>變數、數字、運算結果&lt;/strong> 與字串結合時，Python 提供了多種格式化字串的方法，例如 &lt;strong>F-String&lt;/strong> (Python 3.6+)、&lt;code>format()&lt;/code> 方法等。&lt;/p>
 &lt;p>本篇文章將介紹 &lt;strong>如何在 Python 中格式化字串&lt;/strong>，並說明不同的應用方式與範例。&lt;/p></description></item><item><title>Python 字串修改 (Modify Strings)</title><link>https://doudouu0504.github.io/doudouublog/posts/python-modify-string/</link><pubDate>Sun, 16 Feb 2025 20:14:00 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-modify-string/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 Python 中，&lt;strong>字串 (String)&lt;/strong> 是不可變的，但 Python 提供了一組 &lt;strong>內建方法 (Built-in Methods)&lt;/strong> 來修改字串的內容，如 &lt;strong>轉換大小寫、去除空白、替換字元&lt;/strong> 等。&lt;/p>
 &lt;p>本篇文章將介紹常見的字串修改方法，並包含範例程式碼。&lt;/p></description></item><item><title>Python 字串切片 (Slicing Strings)</title><link>https://doudouu0504.github.io/doudouublog/posts/python-slice-syntax/</link><pubDate>Sun, 16 Feb 2025 15:14:05 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-slice-syntax/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 Python 中，&lt;strong>字串切片 (Slicing Strings)&lt;/strong> 是一種強大的技術，允許你擷取字串的特定部分。透過 &lt;strong>切片語法 (Slice Syntax)&lt;/strong>，你可以指定字串的起始與結束位置來擷取子字串。&lt;/p>
 &lt;p>本篇文章將介紹 Python 中的字串切片方法，並包含各種應用範例。&lt;/p></description></item><item><title>Python 資料類型完整解析</title><link>https://doudouu0504.github.io/doudouublog/posts/python-basic-datatypes/</link><pubDate>Sun, 16 Feb 2025 14:05:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-basic-datatypes/</guid><description>&lt;hr>
 &lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在程式設計中，&lt;strong>資料型態&lt;/strong> 是一個重要的概念。變數可以儲存不同類型的數據，而不同的數據類型提供不同的功能。&lt;br>
 此篇文章了解 Python 內建資料類型，包括文字、數字、序列、映射、設定、布林和二進位類型，並學習如何設定與獲取資料型態。&lt;/p></description></item><item><title>Python 變數與全域變數解析</title><link>https://doudouu0504.github.io/doudouublog/posts/python-basic-variables/</link><pubDate>Sat, 15 Feb 2025 21:54:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-basic-variables/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 Python 中，變數是最基本的概念之一，它們用於儲存資料並在程式中使用。無需事先宣告變數的類型，Python 允許動態指派變數類型並支援多種操作方式。此外，Python 提供了全域變數與局部變數的概念，讓變數的作用域更加靈活。本篇文章將詳細介紹 Python 變數的基本操作、類型轉換、變數賦值、集合解壓縮與全域變數的應用。&lt;/p></description></item><item><title>Python 資料工程師面試指南：必考問題與回答</title><link>https://doudouu0504.github.io/doudouublog/posts/python-interview-good/</link><pubDate>Tue, 11 Feb 2025 19:28:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-interview-good/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>如果你正在準備 &lt;strong>Python 資料工程師&lt;/strong> 的面試，那麼這篇文章將幫助你掌握關鍵的考題與最佳回答。我將依據實際職缺需求，涵蓋 &lt;strong>Python 基礎、爬蟲、API 開發、資料庫處理、效能優化&lt;/strong> 等技術問題，確保你能順利通過面試！&lt;/p></description></item><item><title>在 macOS M1 上使用 Docker 運行 Flask 應用程式</title><link>https://doudouu0504.github.io/doudouublog/posts/macos-howtousedocker-flask/</link><pubDate>Wed, 05 Feb 2025 22:44:15 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/macos-howtousedocker-flask/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 &lt;strong>macOS M1（Apple Silicon）&lt;/strong> 上運行 Docker 可能會遇到與傳統 x86 架構不同的挑戰，例如需要特定的架構支援。本篇文章將介紹如何使用 &lt;strong>Docker&lt;/strong> 部署 Flask 應用程式，並逐步解析 &lt;code>Dockerfile&lt;/code> 的內容，確保其可在 &lt;strong>macOS M1&lt;/strong> 上順利運行。&lt;/p></description></item><item><title>Selenium 操作 YouTube：解析導航與元素選取</title><link>https://doudouu0504.github.io/doudouublog/posts/selenium-comment-element/</link><pubDate>Sat, 01 Feb 2025 21:07:38 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/selenium-comment-element/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>Selenium 中的導航與元素選取，包括 driver.back()、driver.forward()、WebDriverWait 及 XPath 。&lt;br>
 在這篇文章中，我們將使用 &lt;code>Selenium&lt;/code> 來搜尋 YouTube 上的比特幣相關影片，並詳細解析 &lt;strong>網頁導航&lt;/strong> 與 &lt;strong>元素選取&lt;/strong> 的關鍵函式。&lt;/p></description></item><item><title>使用 Selenium 自動化 YouTube 搜尋與爬取影片標題</title><link>https://doudouu0504.github.io/doudouublog/posts/selenium-youtube-crawler/</link><pubDate>Sat, 01 Feb 2025 00:16:10 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/selenium-youtube-crawler/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在這篇文章中，我將分享如何使用 &lt;code>Selenium&lt;/code> 自動搜尋 YouTube 影片，並抓取搜尋結果的影片標題。這對於數據分析、內容整理，甚至是自動化工具開發都相當有幫助。&lt;/p></description></item><item><title>使用 Poetry 安裝 Selenium 並下載 ChromeDriver</title><link>https://doudouu0504.github.io/doudouublog/posts/selenium-download-chromedriver/</link><pubDate>Fri, 31 Jan 2025 21:22:41 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/selenium-download-chromedriver/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在這篇文章中，我將介紹如何使用 Poetry 來管理 Python 環境，並安裝 Selenium 以進行網頁自動化測試。此外，我們也會下載並設定 ChromeDriver，使其能夠與 Selenium 搭配運行。&lt;/p></description></item><item><title>S3 Bucket 設定詳細指南與建議</title><link>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</link><pubDate>Sat, 25 Jan 2025 13:32:50 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/s3bucket-set/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本文將逐步解析 &lt;strong>AWS S3 Bucket&lt;/strong> 的設定選項，並針對常見情境提供最佳化建議，幫助你更快上手並避免常見錯誤。&lt;br>
 並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>深入理解 HTML 表單的 multipart/form-data</title><link>https://doudouu0504.github.io/doudouublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/html-multipart/</link><pubDate>Mon, 20 Jan 2025 17:28:08 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/html-%E8%A1%A8%E5%96%AE%E7%9A%84-multipart/html-multipart/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在開發 Web 應用程式時，處理表單提交是不可避免的一部分。當表單需要支持 &lt;strong>文件上傳&lt;/strong> 時，&lt;code>enctype=&amp;quot;multipart/form-data&amp;quot;&lt;/code> 是一個必不可少的屬性。本文將深入解析 &lt;code>multipart/form-data&lt;/code> 的作用，並探討其在 &lt;strong>Django 文件上傳&lt;/strong> 中的應用。&lt;/p></description></item><item><title>Django 忘記密碼教學：使用 Gmail SMTP 完整配置指南</title><link>https://doudouu0504.github.io/doudouublog/posts/django-gmailsmtp-connect/</link><pubDate>Wed, 08 Jan 2025 00:12:15 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-gmailsmtp-connect/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本文將詳細講解如何在 Django 中實現忘記密碼功能，並完整演示 Gmail SMTP 配置的每一步驟，幫助您快速部署信件服務。這個功能會利用 Gmail 作為信件伺服，並使用 Google 應用專用密碼進行伺服器帳號的登入串接。&lt;/p></description></item><item><title>Django 中綠界金流串接之詳細學習</title><link>https://doudouu0504.github.io/doudouublog/posts/django-ecpay-connect/</link><pubDate>Sat, 04 Jan 2025 18:42:41 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-ecpay-connect/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>金流功能是現代網站必不可少的商業化功能之一。本文中，將指導如何在 Django 框架中經由綠界金流完成支付功能的串接。最終將實現一個包括服務選擇、訂單管理和支付清算的完整流程。&lt;/p></description></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;p>金流功能是現代網站必不可少的商業化功能之一。本文中，將指導如何在 Django 框架中經由綠界金流完成支付功能的串接。最終將實現一個包括服務選擇、訂單管理和支付清算的完整流程。&lt;/p></description></item><item><title>看看有沒有</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</guid><description/></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在團隊協作開發中，管理 Git 的 issues 和分支是一項至關重要的工作。為了讓流程更清晰，以下分為五大步驟，從開 issue 到完成合併，幫助團隊提升效率。&lt;/p></description></item><item><title>新手必備：Ngrok 詳盡教學指南</title><link>https://doudouu0504.github.io/doudouublog/posts/ngrok-easyuse/</link><pubDate>Wed, 01 Jan 2025 19:04:47 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/ngrok-easyuse/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>這篇教學針對新手，將以簡單易懂的方式，教您如何在 &lt;strong>Mac 的 VSCode 終端機&lt;/strong> 中，使用 Ngrok 來分享 Django 專案。&lt;/p></description></item><item><title>如何在 Django 中實現 LINE 登入功能</title><link>https://doudouu0504.github.io/doudouublog/posts/django-line-login/</link><pubDate>Sat, 21 Dec 2024 21:17:34 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-line-login/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在這篇文章中，將詳細介紹如何在 Django 項目中實現 LINE 登入功能。我們會使用 django-allauth 這個強大的第三方庫，讓開發者可以輕鬆集成各種社交平台的登入功能。&lt;/p></description></item><item><title>Vue.js 基礎入門指南</title><link>https://doudouu0504.github.io/doudouublog/posts/vue-start/</link><pubDate>Mon, 02 Dec 2024 10:44:40 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/vue-start/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本篇文章適合 Vue.js 初學者，將帶你快速了解 &lt;strong>Vue.js 的基礎指令、事件處理、迴圈應用&lt;/strong>，並示範如何搭建專案環境。透過本篇教學，你將能夠寫出 Vue.js 的基礎應用，並進一步理解 Vue 的核心概念。&lt;/p></description></item><item><title>Git 常見指令整理</title><link>https://doudouu0504.github.io/doudouublog/posts/git-instruction/</link><pubDate>Fri, 29 Nov 2024 18:21:44 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/git-instruction/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>Git 是目前最流行的版本控制系統之一，幫助開發者管理專案變更、追蹤歷史紀錄，並與團隊協作。本篇文章將整理 &lt;strong>Git 的常用指令&lt;/strong>，並提供 &lt;strong>如何上傳到 GitHub&lt;/strong> 以及 &lt;strong>練習 Git 指令的小遊戲&lt;/strong>，適合 Git 初學者學習與進階使用。&lt;/p></description></item><item><title>RESTful API 與 CRUD</title><link>https://doudouu0504.github.io/doudouublog/posts/restfulapi-crud/</link><pubDate>Sat, 23 Nov 2024 13:08:55 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/restfulapi-crud/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>RESTful API 是一種設計方式，讓不同的應用程式能夠透過網路互相溝通。它使用標準的 &lt;strong>HTTP 方法&lt;/strong>（如 GET、POST、PUT、DELETE）來存取和管理資源，使得前端和後端可以更容易地分工合作。&lt;/p></description></item><item><title>VSCode 快捷鍵大全</title><link>https://doudouu0504.github.io/doudouublog/posts/vscode-faster/</link><pubDate>Sat, 23 Nov 2024 11:40:26 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/vscode-faster/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>Visual Studio Code（VSCode）是一款功能強大且廣受開發者喜愛的程式碼編輯器。透過快捷鍵，開發者可以更高效地編輯程式碼、管理視窗與控制終端機，提高工作效率。&lt;/p></description></item><item><title>使用 Django 建立一個頁面</title><link>https://doudouu0504.github.io/doudouublog/posts/django-make-easypage/</link><pubDate>Fri, 22 Nov 2024 10:41:17 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-make-easypage/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>安裝 Django、MTV 模式中的 Template (T) 與 View (V) 實作練習。&lt;/p>
 &lt;p>本篇文章將介紹如何使用 Django 建立一個 &lt;code>about&lt;/code> 頁面。&lt;/p></description></item><item><title>環境安裝 - 踏入 Python 第一步</title><link>https://doudouu0504.github.io/doudouublog/posts/enviroment-vscode-poetryvenv/</link><pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/enviroment-vscode-poetryvenv/</guid><description>&lt;hr>
 &lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在進入 Python 領域之前，建議先安裝相關工具與套件，這樣可以邊學習邊實作，提高學習效率。本篇文章將介紹 Python 環境安裝的各種方式，適用於 &lt;strong>macOS 使用者&lt;/strong>。&lt;/p></description></item><item><title>about this blog</title><link>https://doudouu0504.github.io/doudouublog/about/</link><pubDate>Sun, 17 Nov 2024 17:46:17 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/about/</guid><description>&lt;h1 class="relative group">hi！我是小瑜
-&lt;div id="hi%E6%88%91%E6%98%AF%E5%B0%8F%E7%91%9C" class="anchor">&lt;/div>
+&lt;div id="hi我是小瑜" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#hi%E6%88%91%E6%98%AF%E5%B0%8F%E7%91%9C" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#hi%e6%88%91%e6%98%af%e5%b0%8f%e7%91%9c" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;img src="img/小魚.jpg" alt="me" width="500px">

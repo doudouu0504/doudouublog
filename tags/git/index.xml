@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/git/</link><description>Recent content in Git on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Thu, 02 Jan 2025 21:12:32 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/git/</link><description>Recent content in Git on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Thu, 02 Jan 2025 21:12:32 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>看看有沒有</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</guid><description/></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在團隊協作開發中，管理 Git 的 issues 和分支是一項至關重要的工作。為了讓流程更清晰，以下分為五大步驟，從開 issue 到完成合併，幫助團隊提升效率。&lt;/p></description></item><item><title>Git 常見指令整理</title><link>https://doudouu0504.github.io/doudouublog/posts/git-instruction/</link><pubDate>Fri, 29 Nov 2024 18:21:44 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/git-instruction/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>Git 是目前最流行的版本控制系統之一，幫助開發者管理專案變更、追蹤歷史紀錄，並與團隊協作。本篇文章將整理 &lt;strong>Git 的常用指令&lt;/strong>，並提供 &lt;strong>如何上傳到 GitHub&lt;/strong> 以及 &lt;strong>練習 Git 指令的小遊戲&lt;/strong>，適合 Git 初學者學習與進階使用。&lt;/p></description></item></channel></rss>

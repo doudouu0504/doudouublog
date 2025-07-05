@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>環境安裝 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D/</link><description>Recent content in 環境安裝 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Sun, 17 Nov 2024 18:46:07 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D/index.xml" rel="self" type="application/rss+xml"/><item><title>環境安裝 - 踏入 Python 第一步</title><link>https://doudouu0504.github.io/doudouublog/posts/enviroment-vscode-poetryvenv/</link><pubDate>Sun, 17 Nov 2024 18:46:07 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/enviroment-vscode-poetryvenv/</guid><description>&lt;hr>
 &lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在進入 Python 領域之前，建議先安裝相關工具與套件，這樣可以邊學習邊實作，提高學習效率。本篇文章將介紹 Python 環境安裝的各種方式，適用於 &lt;strong>macOS 使用者&lt;/strong>。&lt;/p></description></item></channel></rss>

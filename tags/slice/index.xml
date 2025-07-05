@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slice on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/slice/</link><description>Recent content in Slice on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Sun, 16 Feb 2025 15:14:05 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/slice/index.xml" rel="self" type="application/rss+xml"/><item><title>Python 字串切片 (Slicing Strings)</title><link>https://doudouu0504.github.io/doudouublog/posts/python-slice-syntax/</link><pubDate>Sun, 16 Feb 2025 15:14:05 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/python-slice-syntax/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在 Python 中，&lt;strong>字串切片 (Slicing Strings)&lt;/strong> 是一種強大的技術，允許你擷取字串的特定部分。透過 &lt;strong>切片語法 (Slice Syntax)&lt;/strong>，你可以指定字串的起始與結束位置來擷取子字串。&lt;/p>

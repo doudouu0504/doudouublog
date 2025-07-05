@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>支付整合 on 小瑜築夢站</title><link>https://doudouu0504.github.io/doudouublog/tags/%E6%94%AF%E4%BB%98%E6%95%B4%E5%90%88/</link><description>Recent content in 支付整合 on 小瑜築夢站</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>selinafs880504@gmail.com (doudouublog)</managingEditor><webMaster>selinafs880504@gmail.com (doudouublog)</webMaster><copyright>©doudouublog</copyright><lastBuildDate>Sat, 04 Jan 2025 18:42:41 +0800</lastBuildDate><atom:link href="https://doudouu0504.github.io/doudouublog/tags/%E6%94%AF%E4%BB%98%E6%95%B4%E5%90%88/index.xml" rel="self" type="application/rss+xml"/><item><title>Django 中綠界金流串接之詳細學習</title><link>https://doudouu0504.github.io/doudouublog/posts/django-ecpay-connect/</link><pubDate>Sat, 04 Jan 2025 18:42:41 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/django-ecpay-connect/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="定位點">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>金流功能是現代網站必不可少的商業化功能之一。本文中，將指導如何在 Django 框架中經由綠界金流完成支付功能的串接。最終將實現一個包括服務選擇、訂單管理和支付清算的完整流程。&lt;/p></description></item></channel></rss>
