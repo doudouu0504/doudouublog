@@ -14,7 +14,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;/h2>
 &lt;p>本文將逐步解析 &lt;strong>AWS S3 Bucket&lt;/strong> 的設定選項，並針對常見情境提供最佳化建議，幫助你更快上手並避免常見錯誤。&lt;br>
-並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>看看有沒有</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-how-github/</guid><description/></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
+並且分享一部完整介紹專案如何連接 AWS S3 設置的影片。&lt;/p></description></item><item><title>高效管理 Git Issues 和分支：從開票到 PR 的完整流程</title><link>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</link><pubDate>Thu, 02 Jan 2025 21:12:32 +0800</pubDate><author>selinafs880504@gmail.com (doudouublog)</author><guid>https://doudouu0504.github.io/doudouublog/posts/gitissues-howtopush-github/</guid><description>&lt;h2 class="relative group">前言
 &lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
